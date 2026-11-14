@@ -6,6 +6,8 @@ Cadastrar e listar usuários (estudantes) usando **JavaFX, ORMLite e SQLite**.
 
 ## Arquitetura MVC
 
+Os caminhos abaixo são relativos à pasta CampusHubBj-MVC/.
+
 - `model/Usuario.java`: entidade mapeada para a tabela `usuarios` pelo ORMLite.
 - `model/Database.java`: abertura e fechamento da conexão SQLite.
 - `model/UsuarioRepository.java`: operações de persistência pelo DAO do ORMLite.
@@ -40,31 +42,31 @@ Execute os testes pelo terminal para não bloquear a thread JavaFX do BlueJ.
 
 Abrir a aplicação e conferir os registros existentes.
 
-![Tela com os registros existentes](capturas/captura1.png)
+![Tela com os registros existentes](CampusHubBj-MVC/capturas/captura1.png)
 
 ### 2. Cadastro de um estudante
 
 Cadastrar um estudante fictício e conferir o ID gerado na tabela.
 
-![Estudante cadastrado na tabela](capturas/captura2.png)
+![Estudante cadastrado na tabela](CampusHubBj-MVC/capturas/captura2.png)
 
 ### 3. Validação dos campos obrigatórios
 
 Tentar cadastrar com um campo vazio: aparece um aviso, sem inserção.
 
-![Aviso de campo obrigatório não preenchido](capturas/captura3.png)
+![Aviso de campo obrigatório não preenchido](CampusHubBj-MVC/capturas/captura3.png)
 
 ### 4. Busca por ID inexistente
 
 Buscar um ID inexistente: a tabela deve ficar sem resultados.
 
-![Busca por ID inexistente](capturas/captura4.png)
+![Busca por ID inexistente](CampusHubBj-MVC/capturas/captura4.png)
 
 ### 5. Exclusão de um estudante
 
 Excluir um estudante cadastrado.
 
-![Exclusão de um estudante](capturas/captura5.png)
+![Exclusão de um estudante](CampusHubBj-MVC/capturas/captura5.png)
 
 ## Referência
 
