@@ -1,0 +1,11 @@
+#BlueJ package file
+project.charset=UTF-8
+project.invoke.thread=FX
+package.numDependencies=0
+package.numTargets=1
+target1.name=UsuarioView
+target1.type=ClassTarget
+target1.x=30
+target1.y=30
+target1.width=160
+target1.height=70
