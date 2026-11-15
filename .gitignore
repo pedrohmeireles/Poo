@@ -1,0 +1,17 @@
+# Arquivos compilados e auxiliares
+*.class
+*.ctxt
+
+# Pastas de compilação
+build/
+target/
+out/
+
+# Arquivos temporários do SQLite
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini

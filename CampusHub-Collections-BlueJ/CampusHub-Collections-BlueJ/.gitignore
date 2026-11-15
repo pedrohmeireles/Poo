@@ -1,0 +1,6 @@
+build/
+*.class
+*.ctxt
+*.db-journal
+*.db-wal
+*.db-shm

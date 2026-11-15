@@ -1,9 +1,0 @@
-#BlueJ class context
-#Sat Nov 14 15:00:43 BRT 2026
-comment0.target=TesteInterface
-comment0.text=Integra\u00E7\u00E3o JavaFX + controlador + ORM em arquivo tempor\u00E1rio.
-comment1.params=parent texto
-comment1.target=javafx.scene.control.Button botao(javafx.scene.Parent, java.lang.String)
-comment2.params=args
-comment2.target=void main(java.lang.String[])
-numComments=3
