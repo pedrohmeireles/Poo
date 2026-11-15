@@ -4,7 +4,7 @@
 
 A entidade `Usuario` possui os atributos `id`, `nome`, `curso` e `universidade`. A classe `UsuarioColecao` permite adicionar, listar, buscar e remover usuários pelo ID.
 
-Os testes utilizam os mesmos nomes do projeto MVC: Pedro Henrique Meireles Vieira, Samuel Melo Moreira Filho, Henrique Leandro Amorim Ferreira Viana e Gustavo Hilbert Polizel. Todos os registros válidos utilizam **Engenharia de Computação** e **UFG**.
+Os testes utilizam os mesmos nomes do projeto MVC: Pedro Henrique Meireles Vieira, Samuel Melo Moreira Filho, Henrique Leandro Amorim Ferreira Viana e Gustavo Hilbert Polizel.
 
 A coleção funciona em memória, de forma independente do banco SQLite. Nessa execução, os IDs são definidos pelo programa de teste. Na interface original, continuam sendo gerados pelo banco.
 
